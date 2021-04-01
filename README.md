@@ -1,1 +1,3 @@
-8.0.0-fpm-alpine
+docker push siomkin/8-fpm-alpine
+
+https://hub.docker.com/repository/docker/siomkin/8-fpm-alpine
